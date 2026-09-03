@@ -54,7 +54,7 @@ git clone https://github.com/TejaNune1998/cloudflared_tunnel.git
     
 	    - Expand **Additional Application Settings**:
 	        - Under **TLS**: 
-		        - update `Origin Server Name` with for which domain your traefik container is obtaining certficate for. *(e.g *.miniverse.com.co)* 
+		        - update `Origin Server Name` with for which domain your traefik container is obtaining certficate for. *(e.g *.yourdomain.com.co)* 
 		
 5. **Map Root DNS Record:**
     
