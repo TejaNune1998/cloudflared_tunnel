@@ -7,8 +7,8 @@ It works, but it exposes your home or network IP address to the open web. Modern
 ---
 ### Prerequisites
 
-*  A system with [[Docker_Installation|Docker]] installed.
-*  [[Managing_SSL_Certificates_&_Reverse_Proxy_Using_Traefik|Traefik]]
+*  A system with Docker installed.
+*  Traefik
 
 ---
 ### Download docker-compose.yml
